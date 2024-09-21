@@ -1,6 +1,6 @@
 ## Hi! I'm Katie 💫
 ### My Mission 
-With the steady development of technology, it has become common for some users to feel "left behind" by rising trends. Thus, I wish to combine my interests in Computer Science, Design, and Psychology to create digital interfaces that ensure that various types of users can reap the benefits of new innovations. 
+With the steady development of technology, it has become common for some users to feel "left behind" by rising trends. Thus, I wish to combine my interests in Computer Science, Design, and Psychology to create digital interfaces and systems that ensure that various types of users can reap the benefits of new innovations. 
 
 ### About Me
 👩🏻‍💻 **Current Task:** Creating high fidelity mockup of personal website <br/>

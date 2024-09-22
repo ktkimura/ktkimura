@@ -1,9 +1,9 @@
 ## Hi! I'm Katie 💫
 ### My Mission 
-With the steady development of technology, it has become common for some users to feel "left behind" by rising trends. Thus, I wish to combine my interests in Computer Science, Design, and Psychology to create digital interfaces and systems that ensure that various types of users can reap the benefits of new innovations. 
+Design and develop software that prioritizes diverse user needs and experiences. 
 
 ### About Me
-👩🏻‍💻 **Current Task:** Creating high fidelity mockup of personal website <br/>
+👩🏻‍💻 **Current Task:** Coding up my personal website! <br/>
 ⌨️ **Coding Languages:** HTML/CSS, JavaScript, Python, SQL <br/>
 📖 **Frameworks/Libraries:** Node.js, Express.js, React <br/>
 💭 **Hobbies/Interests:** Staying active 🏃🏻‍♀️‍➡️, Baking 🍰, Drawing 🎨, Playing video games 🎮 <br/>
